@@ -1,6 +1,6 @@
 {
   "name": "quickserver-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get started quickly with a local server",
   "main": "server.js",
   "repository": {

@@ -18,7 +18,7 @@ Included is an example of how to use it, add/edit as needed.
 
 - **style.scss** transforms to **style.css**
 - **index.html** is your simple basic html file
-- **server.js** is your server running on port 80 by default
+- **server.js** is your express server
 
 Add the following code in your pages to autoreload them:
 
