@@ -2,7 +2,7 @@
 
 It's backend for the front end.
 
-## Intallation
+## Installation
 
  `npm i quickserver-generator`
 
