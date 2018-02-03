@@ -4,7 +4,9 @@ It's backend for the front end.
 
 ## Installation
 
- `npm i quickserver-generator`
+Clone this repo and in the console install with:
+
+`npm i`
 
 ## Usage
 
