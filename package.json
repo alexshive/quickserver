@@ -1,6 +1,6 @@
 {
   "name": "quickserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get started quickly with a local server",
   "main": "server.js",
   "repository": {
@@ -17,7 +17,7 @@
   "scripts": {
     "start": "parallelshell \"npm run reload\" \"npm run server\" \"npm run sass\"",
     "sass": "node-sass -w --output-style compressed style.scss style.css",
-    "reload": "livereload . -w 1000 -d",
+    "reload": "livereload . -w 1000 -d -p 35729",
     "server": "nodemon server.js"
   },
   "devDependencies": {

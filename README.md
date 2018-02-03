@@ -10,6 +10,8 @@ It's backend for the front end.
 
 `npm start`
 
+Now you can visit http://localhost:3865 to view the local site
+
 ## Development
 
 Included is an example of how to use it, add/edit as needed.
@@ -22,4 +24,4 @@ Add the following code in your pages to autoreload them:
 
 `<script src="http://localhost:35729/livereload.js?snipver=1"></script>`
 
-See [livereload](https://www.npmjs.com/package/livereload) for more information.
+(You can change the port number in `package.json`)
