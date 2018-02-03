@@ -4,7 +4,7 @@ It's backend for the front end.
 
 ## Intallation
 
-`npm i`
+ `npm i quickserver-generator`
 
 ## Usage
 
